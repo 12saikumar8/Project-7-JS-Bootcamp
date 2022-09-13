@@ -1,0 +1,121 @@
+.logo {
+  float: left;
+  width: 30%;
+  height: 40px;
+}
+.action {
+  float: right;
+  width: 25%;
+}
+.nav-items {
+  width: 45%;
+  float: left;
+  justify-content: space-between;
+}
+.nav-item {
+  color: #758283;
+  list-style-type: none;
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+  padding-right: 40px;
+  overflow: hidden;
+  display: inline;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+}
+.nav-item:first-child {
+  color: orangered;
+}
+.wireless {
+  font-size: 40px;
+  font-family: "Mouse Memoirs", sans-serif;
+}
+.intro-section {
+  height: 100%;
+  width: 50%;
+  position: fixed;
+  top: 10vh;
+}
+.left-section {
+  left: 2vh;
+}
+.right-section {
+  right: 0;
+}
+.text {
+  color: #758283;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  width: 75%;
+}
+.action-btn {
+  justify-content: space-around;
+  padding-left: 20px;
+  padding-top: 13px;
+  padding-right: 20px;
+  padding-bottom: 13px;
+  background-color: orangered;
+  border: none;
+  border-radius: 20px;
+}
+.action-btns > button {
+  margin-right: 40px;
+}
+.action-btns {
+  margin-top: 13vh !important;
+}
+.sub-headline img {
+  background-color: red;
+  border-radius: 50%;
+  width: 16px;
+}
+.sub-headlines {
+  margin-left: 50px;
+}
+.imgheadphone {
+  height: 60vh;
+  width: 70vh;
+}
+
+.imgsvg {
+  position: absolute;
+  bottom: 40%;
+  float: left;
+  margin-left: -55px;
+  height: 30vh;
+  width: 25vh;
+}
+.discount-content {
+  position: fixed;
+  bottom: 35%;
+  float: left;
+}
+.action-btns {
+  margin-top: 10vh;
+}
+.chart {
+  margin-top: 2px;
+  margin-left: 160px;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 35px;
+}
+.dots {
+  margin-left: 160px;
+}
+.yellow-dot {
+  background-color: yellow;
+}
+.tomato-dot {
+  background-color: red;
+}
+.black-dot {
+  background-color: black;
+}
